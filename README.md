@@ -41,10 +41,10 @@
 ---
 
 ## 📊 GitHub Stats
-
+![stats](https://github-readme-stats.vercel.app/api?username=aysusenn0&show_icons=true&theme=tokyonight)
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=aysusenn0&show_icons=true&theme=rose_pine&hide_border=true"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aysusenn0&layout=compact&theme=rose_pine&hide_border=true"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=aysusenn0&show_icons=true&theme=tokyonight&hide_border=true"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aysusenn0&layout=compact&theme=tokyonight&hide_border=true"/>
 </p>
 
 ---
